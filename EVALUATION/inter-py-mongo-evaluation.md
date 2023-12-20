@@ -18,7 +18,7 @@ Déposez votre fichier (notebook `ipynb` - avec votre nom dans le nom du fichier
 
 3. Donner les `10` styles de cuisine les plus présents dans la collection
 
-4. Lister les `10` restaurants les moins bien notés (note moyenne la plus haute)
+4. Lister les `10` restaurants les mieux notés (note moyenne la plus haute)
 
 5. Lister par quartier le nombre de restaurants, le score moyen et le pourcentage moyen d'évaluation `A`
 

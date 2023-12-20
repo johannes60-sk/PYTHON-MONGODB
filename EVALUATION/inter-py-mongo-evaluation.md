@@ -2,7 +2,7 @@
 
 ## Rendu
 
-Déposez votre fichier (notebook `ipynb` - avec votre nom dans le nom du fichier) sur https://classroom.google.com/c/NjUwMTI4MjcwOTM3/a/NjI3NzYzNDU4OTcy/details avant le (28/12/2023 à minuit).
+Déposez votre fichier (notebook `ipynb` - avec votre nom dans le nom du fichier) sur https://classroom.google.com/c/NjUwMTI4MjcwOTM3?cjc=d4er5bo avant le (28/12/2023 à minuit).
 
 ### 2 parties :
 
